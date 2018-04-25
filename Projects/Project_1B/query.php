@@ -1,5 +1,4 @@
-/* Daxuan Shu 204853061
-   Ning An 205034447
+/* Daxuan Shu 2*******1
    CS 143
    Project 1B_query.php */
 
