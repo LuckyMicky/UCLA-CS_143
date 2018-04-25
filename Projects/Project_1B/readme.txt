@@ -1,0 +1,27 @@
+/* 
+   Daxuan Shu 204853061
+   Ning An    205034447
+   CS_143 Project 1_B
+   readme.txt
+*/
+
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+This is the readme file of this lab.
+READMEREADMEREADMEREADMEREADMEREADMEREADME
+
+QAQ
